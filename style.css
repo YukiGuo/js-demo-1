@@ -1,0 +1,12 @@
+.demo1{
+	height: 100px;
+	width:100px;
+	border: 2px solid red;
+	position: absolute;
+	top: 0;
+	left:0;
+}
+body{
+	padding:0;
+	height: 100vh;
+}
